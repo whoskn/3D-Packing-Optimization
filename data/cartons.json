@@ -1,0 +1,292 @@
+[
+  {
+    "length": 7.0,
+    "width": 7.0,
+    "height": 3.0
+  },
+  {
+    "length": 9.0,
+    "width": 5.0,
+    "height": 5.0
+  },
+  {
+    "length": 9.0,
+    "width": 7.0,
+    "height": 7.0
+  },
+  {
+    "length": 11.0,
+    "width": 7.0,
+    "height": 3.0
+  },
+  {
+    "length": 11.0,
+    "width": 11.0,
+    "height": 11.0
+  },
+  {
+    "length": 13.0,
+    "width": 9.0,
+    "height": 3.0
+  },
+  {
+    "length": 13.0,
+    "width": 9.0,
+    "height": 7.0
+  },
+  {
+    "length": 15.0,
+    "width": 5.0,
+    "height": 5.0
+  },
+  {
+    "length": 17.0,
+    "width": 11.0,
+    "height": 3.0
+  },
+  {
+    "length": 17.0,
+    "width": 11.0,
+    "height": 9.0
+  },
+  {
+    "length": 19.0,
+    "width": 13.0,
+    "height": 13.0
+  },
+  {
+    "length": 19.0,
+    "width": 15.0,
+    "height": 7.0
+  },
+  {
+    "length": 21.0,
+    "width": 7.0,
+    "height": 3.0
+  },
+  {
+    "length": 21.0,
+    "width": 15.0,
+    "height": 3.0
+  },
+  {
+    "length": 23.0,
+    "width": 7.0,
+    "height": 7.0
+  },
+  {
+    "length": 23.0,
+    "width": 17.0,
+    "height": 9.0
+  },
+  {
+    "length": 23.0,
+    "width": 17.0,
+    "height": 15.0
+  },
+  {
+    "length": 25.0,
+    "width": 19.0,
+    "height": 3.0
+  },
+  {
+    "length": 27.0,
+    "width": 5.0,
+    "height": 5.0
+  },
+  {
+    "length": 27.0,
+    "width": 21.0,
+    "height": 21.0
+  },
+  {
+    "length": 29.0,
+    "width": 9.0,
+    "height": 9.0
+  },
+  {
+    "length": 29.0,
+    "width": 25.0,
+    "height": 7.0
+  },
+  {
+    "length": 31.0,
+    "width": 9.0,
+    "height": 3.0
+  },
+  {
+    "length": 33.0,
+    "width": 13.0,
+    "height": 5.0
+  },
+  {
+    "length": 33.0,
+    "width": 27.0,
+    "height": 25.0
+  },
+  {
+    "length": 33.0,
+    "width": 29.0,
+    "height": 13.0
+  },
+  {
+    "length": 35.0,
+    "width": 13.0,
+    "height": 11.0
+  },
+  {
+    "length": 35.0,
+    "width": 19.0,
+    "height": 9.0
+  },
+  {
+    "length": 37.0,
+    "width": 21.0,
+    "height": 3.0
+  },
+  {
+    "length": 41.0,
+    "width": 7.0,
+    "height": 7.0
+  },
+  {
+    "length": 43.0,
+    "width": 27.0,
+    "height": 13.0
+  },
+  {
+    "length": 43.0,
+    "width": 29.0,
+    "height": 5.0
+  },
+  {
+    "length": 43.0,
+    "width": 33.0,
+    "height": 31.0
+  },
+  {
+    "length": 45.0,
+    "width": 11.0,
+    "height": 3.0
+  },
+  {
+    "length": 45.0,
+    "width": 17.0,
+    "height": 15.0
+  },
+  {
+    "length": 47.0,
+    "width": 37.0,
+    "height": 11.0
+  },
+  {
+    "length": 49.0,
+    "width": 15.0,
+    "height": 7.0
+  },
+  {
+    "length": 53.0,
+    "width": 7.0,
+    "height": 3.0
+  },
+  {
+    "length": 53.0,
+    "width": 9.0,
+    "height": 7.0
+  },
+  {
+    "length": 53.0,
+    "width": 43.0,
+    "height": 21.0
+  },
+  {
+    "length": 53.0,
+    "width": 47.0,
+    "height": 43.0
+  },
+  {
+    "length": 55.0,
+    "width": 21.0,
+    "height": 21.0
+  },
+  {
+    "length": 55.0,
+    "width": 37.0,
+    "height": 5.0
+  },
+  {
+    "length": 57.0,
+    "width": 21.0,
+    "height": 9.0
+  },
+  {
+    "length": 57.0,
+    "width": 35.0,
+    "height": 35.0
+  },
+  {
+    "length": 59.0,
+    "width": 23.0,
+    "height": 3.0
+  },
+  {
+    "length": 65.0,
+    "width": 11.0,
+    "height": 11.0
+  },
+  {
+    "length": 69.0,
+    "width": 47.0,
+    "height": 9.0
+  },
+  {
+    "length": 69.0,
+    "width": 55.0,
+    "height": 53.0
+  },
+  {
+    "length": 71.0,
+    "width": 25.0,
+    "height": 21.0
+  },
+  {
+    "length": 75.0,
+    "width": 53.0,
+    "height": 21.0
+  },
+  {
+    "length": 77.0,
+    "width": 27.0,
+    "height": 9.0
+  },
+  {
+    "length": 81.0,
+    "width": 15.0,
+    "height": 11.0
+  },
+  {
+    "length": 85.0,
+    "width": 73.0,
+    "height": 21.0
+  },
+  {
+    "length": 89.0,
+    "width": 37.0,
+    "height": 31.0
+  },
+  {
+    "length": 91.0,
+    "width": 65.0,
+    "height": 51.0
+  },
+  {
+    "length": 93.0,
+    "width": 29.0,
+    "height": 21.0
+  },
+  {
+    "length": 101.0,
+    "width": 81.0,
+    "height": 71.0
+  }
+]
