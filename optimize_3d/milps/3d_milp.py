@@ -10,7 +10,7 @@ from optimize_3d.constants import (
 )
 from optimize_3d.models import Box, PackedProduct, Product
 
-from ..optimize_3d.milps.common import (
+from .common import (
     ROTATION_DIMS,
     _add_bounding_box_vars,
     _add_rotation_constraints,

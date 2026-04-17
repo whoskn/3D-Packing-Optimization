@@ -7,3 +7,9 @@ dependencies = [
     "matplotlib>=3.0",
     "numpy>=1.0",
 ]
+
+[project.scripts]
+optimize-3d = "optimize_3d.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["optimize_3d*"]

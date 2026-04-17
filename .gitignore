@@ -3,6 +3,7 @@ __pycache__
 .venv
 .ruff_cache
 uv.lock
+build/
 
 # latex temp files
 **/*.gz
