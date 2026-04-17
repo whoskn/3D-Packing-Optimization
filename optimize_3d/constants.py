@@ -1,4 +1,4 @@
-from models import Box
+from optimize_3d.models import Box
 
 CUBENESS_THRESHOLD = 0.00
 

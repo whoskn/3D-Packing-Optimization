@@ -1,16 +1,16 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-from constants import (
+from optimize_3d.constants import (
     W_EXCEED_PENALTY,
     W_FLAT,
     W_FRAGILITY,
     W_GRAVITY,
     W_PYRAMID,
 )
-from models import Box, PackedProduct, Product
+from optimize_3d.models import Box, PackedProduct, Product
 
-from .common import (
+from ..optimize_3d.milps.common import (
     ROTATION_DIMS,
     _add_bounding_box_vars,
     _add_rotation_constraints,

@@ -1,13 +1,13 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-from constants import (
+from optimize_3d.constants import (
     SEP_HEAVY_FLOOR,
     SEP_MAX_PER_BIN,
     SEP_WEIGHT_RATIO,
     SEP_WEIGHT_THRESHOLD,
 )
-from models import Product
+from optimize_3d.models import Product
 
 
 def _milp_bin_pack(products: list[Product]) -> list[list[Product]]:

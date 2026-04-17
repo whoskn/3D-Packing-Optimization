@@ -3,8 +3,8 @@ from itertools import permutations
 import gurobipy as gp
 from gurobipy import GRB
 
-from constants import CUBENESS_THRESHOLD
-from models import Box, PackedProduct, Product
+from optimize_3d.constants import CUBENESS_THRESHOLD
+from optimize_3d.models import Box, PackedProduct, Product
 
 ROTATION_DIMS = tuple(permutations([0, 1, 2]))
 

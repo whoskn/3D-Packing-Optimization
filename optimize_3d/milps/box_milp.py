@@ -1,8 +1,8 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-from constants import MAX_FREE_VOL, SEP_MAX_PER_BIN
-from models import Box, PackedProduct, Product
+from optimize_3d.constants import MAX_FREE_VOL, SEP_MAX_PER_BIN
+from optimize_3d.models import Box, PackedProduct, Product
 
 from .common import _add_rotation_constraints
 

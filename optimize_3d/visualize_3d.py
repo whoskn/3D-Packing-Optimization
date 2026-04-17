@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 import numpy as np
 
-from constants import (
+from optimize_3d.constants import (
     VIS_BOX_ALPHA,
     VIS_FIG_SIZE,
     VIS_PACKAGE_ALPHA_MAX,
@@ -13,7 +13,7 @@ from constants import (
     W_GRAVITY,
     W_PYRAMID,
 )
-from models import Box, PackedProduct
+from optimize_3d.models import Box, PackedProduct
 
 
 def _draw_objective_table(
@@ -195,9 +195,15 @@ def _visualize_single(
         )
         draw_box((p.x, p.y, p.z), (p.dx, p.dy, p.dz), colors[i], alpha)
         ax.text(
-            p.x + p.dx / 2, p.y + p.dy / 2, p.z + p.dz + 1,
-            str(p.product.product_id), ha="center", va="bottom", fontsize=9,
-            fontweight="bold", zorder=100,
+            p.x + p.dx / 2,
+            p.y + p.dy / 2,
+            p.z + p.dz + 1,
+            str(p.product.product_id),
+            ha="center",
+            va="bottom",
+            fontsize=9,
+            fontweight="bold",
+            zorder=100,
         )
 
     ax.set_xlabel("Width")

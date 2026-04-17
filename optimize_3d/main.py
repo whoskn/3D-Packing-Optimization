@@ -2,10 +2,10 @@
 import argparse
 import json
 
-from gen_orders import parse_products_csv
-from models import Box
-from pipelines import pipeline, pipeline_fixed_boxes
-from visualize_3d import visualize_packing
+from optimize_3d.gen_orders import parse_products_csv
+from optimize_3d.models import Box
+from optimize_3d.pipelines import pipeline, pipeline_fixed_boxes
+from optimize_3d.visualize_3d import visualize_packing
 
 
 if __name__ == "__main__":

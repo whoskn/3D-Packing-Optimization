@@ -1,2 +1,13 @@
+# python stuff
 __pycache__
 .venv
+.ruff_cache
+uv.lock
+
+# latex temp files
+**/*.gz
+**/*.aux
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+**/*.gz

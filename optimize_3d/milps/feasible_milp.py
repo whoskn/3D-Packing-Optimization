@@ -1,7 +1,7 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-from models import Box, Product
+from optimize_3d.models import Box, Product
 
 from .common import (
     _add_rotation_constraints,

@@ -5,7 +5,7 @@ import json
 
 import numpy as np
 
-from models import Product
+from optimize_3d.models import Product
 
 
 def parse_products_csv(filepath: str = "products.csv") -> list[Product]:
@@ -27,7 +27,7 @@ def parse_products_csv(filepath: str = "products.csv") -> list[Product]:
                     length=length,
                     width=width,
                     depth=depth,
-                    product_id=product_id
+                    product_id=product_id,
                 )
             )
     return products
@@ -126,7 +126,7 @@ def generate_orders(
 
 
 if __name__ == "__main__":
-    from constants import (
+    from optimize_3d.constants import (
         GEN_ORDERS,
         GEN_MAX_PACKAGES,
         GEN_MIN_PACKAGES,

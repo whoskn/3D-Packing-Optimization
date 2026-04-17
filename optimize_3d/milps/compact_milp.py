@@ -1,8 +1,8 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-from constants import MAX_FREE_VOL_RATIO
-from models import Box, PackedProduct, Product
+from optimize_3d.constants import MAX_FREE_VOL_RATIO
+from optimize_3d.models import Box, PackedProduct, Product
 
 from .common import (
     _add_bounding_box_vars,

@@ -1,6 +1,11 @@
-from constants import GUR_TIME_LIMIT, BOX_LIMIT
-from milps import milp_box_selection, milp_stage_1, milp_stage_2, separate_order
-from models import Box, PackedProduct, Product
+from optimize_3d.constants import GUR_TIME_LIMIT, BOX_LIMIT
+from optimize_3d.milps import (
+    milp_box_selection,
+    milp_stage_1,
+    milp_stage_2,
+    separate_order,
+)
+from optimize_3d.models import Box, PackedProduct, Product
 
 
 def pipeline(
